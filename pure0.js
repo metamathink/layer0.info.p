@@ -2,6 +2,7 @@
 // no compress
 // posix format
 // tar - debian 12 x64
+// remember ini log
 
 var show = console.log;
 

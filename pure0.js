@@ -1,4 +1,5 @@
 // expression everything from atom, express atom from nothing.
+// no compress
 
 var show = console.log;
 

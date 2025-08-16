@@ -1,3 +1,5 @@
+// expression everything from atom, express atom from nothing.
+
 var show = console.log;
 
 var Y = f => (x => f(v => x(x)(v)))(x => f(v => x(x)(v)));
